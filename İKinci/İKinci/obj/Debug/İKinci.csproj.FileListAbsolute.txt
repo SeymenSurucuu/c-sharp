@@ -1,0 +1,10 @@
+C:\Users\seyme\Desktop\Projeler\İKinci\İKinci\bin\Debug\İKinci.exe.config
+C:\Users\seyme\Desktop\Projeler\İKinci\İKinci\bin\Debug\İKinci.exe
+C:\Users\seyme\Desktop\Projeler\İKinci\İKinci\bin\Debug\İKinci.pdb
+C:\Users\seyme\Desktop\Projeler\İKinci\İKinci\obj\Debug\İKinci.csproj.AssemblyReference.cache
+C:\Users\seyme\Desktop\Projeler\İKinci\İKinci\obj\Debug\İKinci.Form1.resources
+C:\Users\seyme\Desktop\Projeler\İKinci\İKinci\obj\Debug\İKinci.Properties.Resources.resources
+C:\Users\seyme\Desktop\Projeler\İKinci\İKinci\obj\Debug\İKinci.csproj.GenerateResource.cache
+C:\Users\seyme\Desktop\Projeler\İKinci\İKinci\obj\Debug\İKinci.csproj.CoreCompileInputs.cache
+C:\Users\seyme\Desktop\Projeler\İKinci\İKinci\obj\Debug\İKinci.exe
+C:\Users\seyme\Desktop\Projeler\İKinci\İKinci\obj\Debug\İKinci.pdb
