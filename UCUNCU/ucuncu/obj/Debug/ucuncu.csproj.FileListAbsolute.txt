@@ -1,0 +1,10 @@
+C:\Users\seyme\Desktop\Projeler\ucuncu\ucuncu\bin\Debug\ucuncu.exe.config
+C:\Users\seyme\Desktop\Projeler\ucuncu\ucuncu\bin\Debug\ucuncu.exe
+C:\Users\seyme\Desktop\Projeler\ucuncu\ucuncu\bin\Debug\ucuncu.pdb
+C:\Users\seyme\Desktop\Projeler\ucuncu\ucuncu\obj\Debug\ucuncu.csproj.AssemblyReference.cache
+C:\Users\seyme\Desktop\Projeler\ucuncu\ucuncu\obj\Debug\ucuncu.Form1.resources
+C:\Users\seyme\Desktop\Projeler\ucuncu\ucuncu\obj\Debug\ucuncu.Properties.Resources.resources
+C:\Users\seyme\Desktop\Projeler\ucuncu\ucuncu\obj\Debug\ucuncu.csproj.GenerateResource.cache
+C:\Users\seyme\Desktop\Projeler\ucuncu\ucuncu\obj\Debug\ucuncu.csproj.CoreCompileInputs.cache
+C:\Users\seyme\Desktop\Projeler\ucuncu\ucuncu\obj\Debug\ucuncu.exe
+C:\Users\seyme\Desktop\Projeler\ucuncu\ucuncu\obj\Debug\ucuncu.pdb
